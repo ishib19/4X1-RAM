@@ -1,6 +1,6 @@
 # 💾 4×1 RAM — Verilog RTL Design
 
- ### 📘 Overview
+ ### Overview
 A simple 4×1 Random Access Memory (RAM) implemented in Verilog HDL.  
 The design supports **synchronous write** and **asynchronous read** operations.
 
@@ -17,12 +17,12 @@ The design supports **synchronous write** and **asynchronous read** operations.
 
 ---
 
-### 🧰 Tools Used
+### Tools Used
 - Verilog HDL  
 - Icarus Verilog (Simulation)  
 - Cadence Genus (Synthesis)
 
-  ###Files:
+  ### Files:
   - RTL Code
   - Ouput
   - Area and Time report
