@@ -22,7 +22,7 @@ The design supports **synchronous write** and **asynchronous read** operations.
 - Icarus Verilog (Simulation)  
 - Cadence Genus (Synthesis)
 
-  ### Files:
-  - RTL Code
-  - Ouput
-  - Area and Time report
+### Files:
+- Verilog Codes (Module and Testbench)
+- Constraints files 
+- Reports and Output files (Output, Synthesis netlist, Area and time reports)
