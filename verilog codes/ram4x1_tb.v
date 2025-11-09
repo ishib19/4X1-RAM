@@ -1,3 +1,4 @@
+//testbench
 module ram4x1_tb;
     reg clk;
     reg we;
