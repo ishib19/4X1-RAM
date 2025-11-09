@@ -7,7 +7,7 @@ This design is **fully synthesizable** and verified using the **Cadence RTL-to-G
 
 ---
 
-### ⚙️ Functional Description
+### Functional Description
 
 | Signal | Direction | Width | Description |
 |---------|------------|--------|--------------|
@@ -19,7 +19,7 @@ This design is **fully synthesizable** and verified using the **Cadence RTL-to-G
 
 ---
 
-### 💡 Features
+### Features
 - 4 memory cells (1-bit each)
 - **Synchronous write**, **asynchronous read**
 - Compact, synthesizable RTL module
@@ -27,7 +27,7 @@ This design is **fully synthesizable** and verified using the **Cadence RTL-to-G
 
 ---
 
-### 🧰 Tools & Technologies
+### Tools & Technologies
 - **Language:** Verilog HDL  
 - **Simulation:** Cadence nclaunch / Xcelium  
 - **Synthesis:** Cadence Genus  
@@ -37,7 +37,7 @@ This design is **fully synthesizable** and verified using the **Cadence RTL-to-G
 
 ---
 
-### 🧩 Design Flow
+### Design Flow
 
 | Stage | Tool | Description |
 |-------|------|-------------|
